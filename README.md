@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.png" width="100%" alt="banner" />
+</p>
+
 <h1 align="center">Hi, I'm Tanakit 👋</h1>
 <h3 align="center">CTO @ CAREVANAA · AI/ML Engineer · Backend Developer</h3>
 
