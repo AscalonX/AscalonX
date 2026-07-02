@@ -2,7 +2,7 @@
 <h3 align="center">CTO @ CAREVANAA · AI/ML Engineer · Backend Developer</h3>
 
 <p align="center">
-  AI/ML + backend engineer. Ex-game dev, Arch Linux user (btw).<br/>
+  AI/ML + backend engineer. Ex-game dev, Arch Linux user (btw), Aston Martin lover 🏎️<br/>
   Built an intelligent solution for clinics.
 </p>
 
