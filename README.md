@@ -32,10 +32,9 @@
 </p>
 
 <p align="center">
-  <sub>homelab on bare metal 🏠</sub><br/>
+  <sub>homelab on bare metal — self-hosted on Arch 🏠</sub><br/>
   <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-hole" />
   <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
 </p>
 
 <br/>
