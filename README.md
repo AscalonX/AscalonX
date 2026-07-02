@@ -44,7 +44,7 @@
 
 ### 🏆 Hackathons
 
-I also do hackathons for fun and profit.
+I also do hackathons for fun and some ISK.
 
 - 🥈 **AI Thailand Benchmark 2026** — Thai ASR / LOTUSDIS (NECTEC) · 2nd Place + Special Award
 - 🥉 **AI Thailand Benchmark 2026** — Thai Meeting Summarization (NECTEC) · 3rd Place + Special Award
@@ -58,7 +58,7 @@ I also do hackathons for fun and profit.
 
 ### 🖥️ My Rig
 
-<sub>💸 subsidised by hackathon prize money, eiei</sub>
+*💸 subsidised by hackathon prize money (it paid off) — best gaming rig ever!*
 
 - 🧠 **CPU** — Intel Core i5-14400F
 - 🎮 **GPU** — NVIDIA RTX 5060 Ti 16GB
