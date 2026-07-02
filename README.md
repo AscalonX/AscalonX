@@ -58,6 +58,8 @@ I also do hackathons for fun and profit.
 
 ### 🖥️ My Rig
 
+<sub>💸 subsidised by hackathon prize money, eiei</sub>
+
 - 🧠 **CPU** — Intel Core i5-14400F
 - 🎮 **GPU** — NVIDIA RTX 5060 Ti 16GB
 - 🧵 **RAM** — 32GB DDR5
