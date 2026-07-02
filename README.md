@@ -27,8 +27,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/H200-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="H200 (FP8)" />
   <img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face lover" />
-  <img src="https://img.shields.io/badge/HPC%20%C2%B7%20H200%20%2F%20A100-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="HPC" />
+  <img src="https://img.shields.io/badge/A100-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="A100" />
 </p>
 
 <p align="center">
