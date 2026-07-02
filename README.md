@@ -1,39 +1,36 @@
-<div align="center">
+<h1 align="center">Hi, I'm Tanakit 👋</h1>
+<h3 align="center">CTO @ CAREVANAA · AI/ML Engineer · Backend Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1793D1&center=true&vCenter=true&width=520&lines=tanakit%40ascalonx%3A~%24+whoami;CTO+%40+CAREVANAA;AI%2FML+Engineer+%2B+Backend+Dev;ex-game+dev+%C2%B7+arch+linux+user+(btw)" alt="typing header" />
-
-</div>
-
-```console
-tanakit@ascalonx
-────────────────────────────────────────────
-  OS         Arch Linux x86_64 (btw)
-  Role       CTO @ CAREVANAA
-  Uptime     building an AI vet scribe + Clinic OS
-  Shell      Java · Spring Boot · C# / .NET
-  AI         LLMs · RAG · Agentic AI · Knowledge Graphs
-  Cloud      AWS ECS/Fargate · GCP Cloud Run · Docker
-  Past       game dev  (real-time systems, still love them)
-  Learning   Go · gRPC · Kafka · k8s
-  Web        tanakit.net  →  full version lives here
-────────────────────────────────────────────
-```
-
-```console
-tanakit@ascalonx:~$ cat contact.txt
-```
-
-<p>
-  <a href="https://tanakit.net"><img src="https://img.shields.io/badge/tanakit.net-1793D1?style=flat-square&logo=firefox&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tanakit-kaewhawong-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tanakit.kaew.ai@gmail.com"><img src="https://img.shields.io/badge/mail-333?style=flat-square&logo=gmail&logoColor=white"></a>
+<p align="center">
+  AI/ML + backend engineer. Ex-game dev, Arch Linux user (btw).<br/>
+  Currently building an AI veterinary scribe & Clinic OS.
 </p>
 
-```console
-tanakit@ascalonx:~$ neofetch --stats
-```
+<p align="center">
+  <a href="https://tanakit.net"><img src="https://img.shields.io/badge/Website-tanakit.net-1793D1?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanakit-kaewhawong-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tanakit.kaew.ai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AscalonX&show_icons=true&hide_border=true&title_color=1793D1&icon_color=1793D1&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AscalonX&layout=compact&hide_border=true&title_color=1793D1&text_color=c9d1d9&bg_color=0d1117" />
+<br/>
 
-<sub><code>tanakit@ascalonx:~$ █</code></sub>
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,cpp,python,pytorch,tensorflow&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,redis,postgres,linux,git&theme=dark" />
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AscalonX&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AscalonX&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <b>More about me → <a href="https://tanakit.net">tanakit.net</a></b>
+</p>
