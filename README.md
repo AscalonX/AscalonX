@@ -17,9 +17,23 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,cpp,unity,godot,python,pytorch,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,cpp,unity,python,pytorch,tensorflow&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,redis,postgres,linux,git&theme=dark" />
+</p>
+
+<br/>
+
+### 🏆 Hackathons
+
+<p align="center">
+  I also do hackathons for fun and profit.
+</p>
+
+<p align="center">
+  🥈 AI Thailand Benchmark 2026 — Thai ASR (NECTEC)&nbsp;&nbsp;·&nbsp;&nbsp;🥉 AI Thailand Benchmark 2026 — Thai Summarization (NECTEC)<br/>
+  🥇 International Ethical Finance Hackathon 2025&nbsp;&nbsp;·&nbsp;&nbsp;🥇 BJM MediaX: AI Innovation Hackathon 2025<br/>
+  🚀 Kibo Robot Programming Challenge (JAXA) — Top 5%
 </p>
 
 <br/>
