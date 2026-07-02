@@ -26,6 +26,17 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,redis,postgres,linux,git&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face lover" />
+  <img src="https://img.shields.io/badge/HPC%20%C2%B7%20A100%20GPUs-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="HPC" />
+</p>
+
+<p align="center">
+  <sub>also tinkering at home 🏠</sub><br/>
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-hole" />
+  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin" />
+</p>
+
 <br/>
 
 ### 🏆 Hackathons
