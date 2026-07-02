@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,cpp,python,pytorch,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,cpp,unity,godot,python,pytorch,tensorflow&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,redis,postgres,linux,git&theme=dark" />
 </p>
