@@ -3,7 +3,7 @@
 
 <p align="center">
   AI/ML + backend engineer. Ex-game dev, Arch Linux user (btw).<br/>
-  Currently building an AI veterinary scribe & Clinic OS.
+  Built an intelligent solution for clinics.
 </p>
 
 <p align="center">
