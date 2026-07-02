@@ -53,6 +53,17 @@ I also do hackathons for fun and profit.
 
 <br/>
 
+### 🖥️ My Rig
+
+- 🧠 **CPU** — Intel Core i5-14400F
+- 🎮 **GPU** — NVIDIA RTX 5060 Ti 16GB
+- 🧵 **RAM** — 32GB DDR5
+- 💾 **Storage** — 1TB SSD
+- 🖥️ **Display** — 27" @ 180Hz
+- 🐧 **OS** — Arch Linux (btw)
+
+<br/>
+
 <p align="center">
   <b>More about me → <a href="https://tanakit.net">tanakit.net</a></b>
 </p>
